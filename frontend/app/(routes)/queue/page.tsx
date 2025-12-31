@@ -1,4 +1,4 @@
-import QueueList from "../../components/queue/QueueList";
+import QueueList from "../../../components/queue/QueueList";
 
 export default function QueuePage() {
   return (

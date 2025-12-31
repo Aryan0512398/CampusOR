@@ -1,8 +1,8 @@
-import StatCard from "@/app/components/charts/StatCard";
-import QueueLoadChart from "@/app/components/charts/QueueLoadChart";
-import WaitTimeChart from "@/app/components/charts/WaitTimeChart";
-import TokensServedChart from "@/app/components/charts/TokensServedChart";
-import ServiceEfficiencyChart from "@/app/components/charts/ServiceEfficiencyChart";
+import StatCard from "@/components/charts/StatCard";
+import QueueLoadChart from "@/components/charts/QueueLoadChart";
+import WaitTimeChart from "@/components/charts/WaitTimeChart";
+import TokensServedChart from "@/components/charts/TokensServedChart";
+import ServiceEfficiencyChart from "@/components/charts/ServiceEfficiencyChart";
 
 export default function AdminPage() {
   return (
